@@ -1,0 +1,9 @@
+gitk
+
+git pull
+
+git add *
+git add -i
+
+git commit -m "comentários das alterações"
+git push

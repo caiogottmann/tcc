@@ -1,0 +1,108 @@
+body {
+	margin: 0;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 100%;
+	position: absolute;
+	z-index: -9999;
+}
+
+#login {
+	height: 200px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 300px;
+	padding: 10px;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.campos {
+	margin-left: 100px;
+	float: left;
+}
+
+.campos2 {
+	margin-right: 100px;
+	float: right;
+}
+
+.conteudo {
+	width: auto;
+	max-width: 75%;
+	height: auto;
+	min-height: 800px;
+	margin: 0 auto;
+	margin-top: 60px;
+	background-color: #ffffff;
+	box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.5);
+	position: relative;
+	z-index: -1;
+}
+
+#inicio {
+	width: 800px;
+	height: 200px;
+	margin: 0 auto;
+	margin-top: 6%;
+	text-align: center;
+	color: #f1f1f1;
+	display: none;
+}
+
+#nome {
+	font-size: 30px;
+}
+
+.relogio {
+	position: absolute;
+    right: 131px;
+}
+
+#minhaConta {
+	width: auto;
+	max-width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
+
+div.dataTables_wrapper {
+    width: 95%;
+    margin: 0 auto;
+}
+
+#alerta-prin {
+	width: 25%;
+    float: right;
+    margin-top: 6%;
+
+}
+
+.alerta {
+	margin-top: -4%;
+    border-radius: 5px;
+    border-width: small;
+	border-style: solid;
+	border-color: #000000;
+    
+}
+
+#calendar {
+	padding: 1%;
+}
+
+.checkboxPaginas {
+	padding: 0 20% 0 20%;
+}
+
+#loadingGrafico {
+	width: 50%; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.dataTables_wrapper {
+	position: relative;
+}

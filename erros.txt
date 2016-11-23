@@ -1,0 +1,3 @@
+Erro 001: Erro ao alterar !
+Erro 002: Tente Novamente! -- (erro ao atualizar o endereco)
+Erro 003: Tente Novamente! -- (erro ao atualizar o usuario)
